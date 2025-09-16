@@ -1,42 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-
-  <url>
-    <loc>https://diskaguaja.com.br/</loc>
-    <image:image><image:loc>https://i.ibb.co/LzyM4vMC/banneraguajasite.png</image:loc><image:title>Distribuidora Água Já – Monte Aprazível/SP</image:title></image:image>
-  </url>
-
-  <url>
-    <loc>https://diskaguaja.com.br/rarida/</loc>
-    <image:image><image:loc>https://i.ibb.co/r9mCx4s/rarida20.png</image:loc><image:title>Rárida 20 L</image:title></image:image>
-    <image:image><image:loc>https://i.ibb.co/vxBPP6rZ/r-rida-gas510ml.png</image:loc><image:title>Rárida 510 ml com gás (fardo 12)</image:title></image:image>
-    <image:image><image:loc>https://i.ibb.co/Gvms61rb/r-rida-semgas510ml.png</image:loc><image:title>Rárida 510 ml sem gás (fardo 12)</image:title></image:image>
-    <image:image><image:loc>https://i.ibb.co/DPDhZmZ4/logo-r-rida.png</image:loc><image:title>Logo Rárida</image:title></image:image>
-  </url>
-
-  <url>
-    <loc>https://diskaguaja.com.br/talisma/</loc>
-    <image:image><image:loc>https://i.ibb.co/Rk274VL7/talisma20litrosnova.png</image:loc><image:title>Talismã 20 L</image:title></image:image>
-    <image:image><image:loc>https://i.ibb.co/mVpGJgWK/talisma510semgas.png</image:loc><image:title>Talismã 510 ml sem gás (fardo 12)</image:title></image:image>
-    <image:image><image:loc>https://i.ibb.co/YTbMCVyM/talism-gas.png</image:loc><image:title>Talismã 510 ml com gás (fardo 12)</image:title></image:image>
-    <image:image><image:loc>https://i.ibb.co/3m8RKJnd/talism-copo.png</image:loc><image:title>Copos Talismã 200 ml (caixa 48)</image:title></image:image>
-    <image:image><image:loc>https://i.ibb.co/QvRFTpK1/logo-talism.png</image:loc><image:title>Logo Talismã</image:title></image:image>
-  </url>
-
-  <url>
-    <loc>https://diskaguaja.com.br/minajen/</loc>
-    <image:image><image:loc>https://i.ibb.co/mCQVymcY/minajen20.png</image:loc><image:title>Minajen 20 L</image:title></image:image>
-    <image:image><image:loc>https://i.ibb.co/Pv67V9Mb/minajen510semg.png</image:loc><image:title>Minajen 510 ml sem gás (fardo 12)</image:title></image:image>
-    <image:image><image:loc>https://i.ibb.co/kTBPsgY/minajen510comg.png</image:loc><image:title>Minajen 510 ml com gás (fardo 12)</image:title></image:image>
-    <image:image><image:loc>https://i.ibb.co/q33XDD27/logo-minajen.png</image:loc><image:title>Logo Minajen</image:title></image:image>
-  </url>
-
-  <url>
-    <loc>https://diskaguaja.com.br/Levity/</loc>
-    <image:image><image:loc>https://i.ibb.co/KjBgWK1Z/Levity-20.png</image:loc><image:title>Levity 20 L</image:title></image:image>
-    <image:image><image:loc>https://i.ibb.co/B2MNj6YH/levity-sem-gas.png</image:loc><image:title>Levity 510 ml sem gás (fardo 12)</image:title></image:image>
-    <image:image><image:loc>https://i.ibb.co/LDX3Dn4S/levity510mlcomg.png</image:loc><image:title>Levity 510 ml com gás (fardo 12)</image:title></image:image>
-    <image:image><image:loc>https://i.ibb.co/HDfMdV6m/logo-levity.png</image:loc><image:title>Logo Levity</image:title></image:image>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://diskaguaja.com.br/</loc><lastmod>2025-09-16</lastmod><changefreq>weekly</changefreq><priority>1.00</priority></url>
+  <url><loc>https://diskaguaja.com.br/rarida/</loc><lastmod>2025-09-16</lastmod><changefreq>monthly</changefreq><priority>0.90</priority></url>
+  <url><loc>https://diskaguaja.com.br/talisma/</loc><lastmod>2025-09-16</lastmod><changefreq>monthly</changefreq><priority>0.90</priority></url>
+  <url><loc>https://diskaguaja.com.br/minajen/</loc><lastmod>2025-09-16</lastmod><changefreq>monthly</changefreq><priority>0.90</priority></url>
+  <url><loc>https://diskaguaja.com.br/Levity/</loc><lastmod>2025-09-16</lastmod><changefreq>monthly</changefreq><priority>0.90</priority></url>
 </urlset>
